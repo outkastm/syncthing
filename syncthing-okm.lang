@@ -1,0 +1,181 @@
+[en-us]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet."
+release_note = "Bundles syncthing v2.1.7 packed from source"
+important    = "Run as application user: syncthing-okm"
+
+[de-de]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing ist ein kontinuierliches Dateisynchronisierungsprogramm. Es synchronisiert Dateien zwischen zwei oder mehr Computern in Echtzeit, sicher geschützt vor neugierigen Blicken. Ihre Daten gehören allein Ihnen und Sie verdienen es zu entscheiden, wo sie gespeichert werden, ob sie mit Dritten geteilt werden und wie sie über das Internet übertragen werden."
+release_note = "Enthält syncthing v2.1.7, aus dem Quellcode kompiliert"
+important    = "Wird als Anwendungsbenutzer ausgeführt: syncthing"
+
+[es-es]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing es un programa de sincronización continua de archivos. Sincroniza archivos entre dos o más ordenadores en tiempo real, protegidos de forma segura contra miradas indiscretas. Tus datos son solo tuyos y mereces elegir dónde se almacenan, si se comparten con algún tercero y cómo se transmiten por Internet."
+release_note = "Incluye syncthing v2.1.7 empaquetado desde el código fuente"
+important    = "Se ejecuta como usuario de aplicación: syncthing"
+
+[fr-fr]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing est un programme de synchronisation continue de fichiers. Il synchronise les fichiers entre deux ordinateurs ou plus en temps réel, protégés en toute sécurité contre les regards indiscrets. Vos données n'appartiennent qu'à vous et vous méritez de choisir où elles sont stockées, si elles sont partagées avec un tiers et comment elles sont transmises sur Internet."
+release_note = "Intègre syncthing v2.1.7 compilé depuis les sources"
+important    = "Exécuté en tant qu'utilisateur d'application : syncthing"
+
+[hu-hu]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "A Syncthing egy folyamatos fájlszinkronizáló program. Valós időben szinkronizálja a fájlokat két vagy több számítógép között, biztonságosan védve a kíváncsi szemektől. Az adataid kizárólag a tieid, és megérdemled, hogy te döntsd el, hol tárolják őket, megosztják-e harmadik féllel, és hogyan továbbítják az interneten."
+release_note = "Tartalmazza a forráskódból csomagolt syncthing v2.1.7 verziót"
+important    = "Alkalmazásfelhasználóként futtatva: syncthing"
+
+[it-it]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing è un programma di sincronizzazione continua dei file. Sincronizza i file tra due o più computer in tempo reale, protetti in modo sicuro da occhi indiscreti. I tuoi dati sono solo tuoi e meriti di scegliere dove vengono archiviati, se vengono condivisi con terze parti e come vengono trasmessi su Internet."
+release_note = "Include syncthing v2.1.7 compilato dal codice sorgente"
+important    = "Eseguito come utente dell'applicazione: syncthing"
+
+[ja-jp]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthingは継続的なファイル同期プログラムです。2台以上のコンピューター間でファイルをリアルタイムに同期し、のぞき見から安全に保護します。あなたのデータはあなただけのものであり、どこに保存するか、第三者と共有するか、インターネット上でどのように送信するかを自分で選ぶ権利があります。"
+release_note = "ソースからパッケージ化されたsyncthing v2.1.7を同梱"
+important    = "アプリケーションユーザーとして実行: syncthing"
+
+[ko-kr]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing은 지속적인 파일 동기화 프로그램입니다. 두 대 이상의 컴퓨터 간에 실시간으로 파일을 동기화하며 외부의 시선으로부터 안전하게 보호합니다. 데이터는 오직 사용자만의 것이며, 어디에 저장할지, 제3자와 공유할지, 인터넷을 통해 어떻게 전송할지 직접 선택할 권리가 있습니다."
+release_note = "소스에서 패키징된 syncthing v2.1.7 번들 포함"
+important    = "애플리케이션 사용자로 실행: syncthing"
+
+[pl-pl]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing to program do ciągłej synchronizacji plików. Synchronizuje pliki między dwoma lub więcej komputerami w czasie rzeczywistym, bezpiecznie chroniąc je przed niepowołanym wzrokiem. Twoje dane należą wyłącznie do Ciebie i zasługujesz na to, aby decydować, gdzie są przechowywane, czy są udostępniane stronom trzecim oraz w jaki sposób są przesyłane przez Internet."
+release_note = "Zawiera syncthing v2.1.7 spakowany ze źródeł"
+important    = "Uruchamiany jako użytkownik aplikacji: syncthing"
+
+[pt-pt]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "O Syncthing é um programa de sincronização contínua de ficheiros. Sincroniza ficheiros entre dois ou mais computadores em tempo real, protegidos em segurança contra olhares indiscretos. Os seus dados são apenas seus e merece escolher onde são armazenados, se são partilhados com terceiros e como são transmitidos pela Internet."
+release_note = "Inclui o syncthing v2.1.7 empacotado a partir do código-fonte"
+important    = "Executado como utilizador da aplicação: syncthing"
+
+[ru-ru]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing — это программа для непрерывной синхронизации файлов. Она синхронизирует файлы между двумя и более компьютерами в реальном времени, надежно защищая их от посторонних глаз. Ваши данные принадлежат только вам, и вы вправе выбирать, где они хранятся, передаются ли третьим лицам и как отправляются через интернет."
+release_note = "Включает syncthing v2.1.7, собранный из исходного кода"
+important    = "Запускается от имени пользователя приложения: syncthing"
+
+[tr-tr]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing, kesintisiz bir dosya senkronizasyon programıdır. İki veya daha fazla bilgisayar arasında dosyaları gerçek zamanlı olarak, meraklı gözlerden güvenli bir şekilde koruyarak senkronize eder. Verileriniz yalnızca size aittir; nerede saklanacağını, üçüncü taraflarla paylaşılıp paylaşılmayacağını ve internet üzerinden nasıl iletileceğini seçme hakkına sahipsiniz."
+release_note = "Kaynak koddan paketlenmiş syncthing v2.1.7 sürümünü içerir"
+important    = "Uygulama kullanıcısı olarak çalışır: syncthing"
+
+[zh-cn]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing 是一款持续文件同步程序。它能在两台或多台计算机之间实时同步文件，并安全保护文件免受窥探。您的数据完全属于您自己，您有权决定数据的存储位置、是否与第三方共享以及如何通过互联网传输。"
+release_note = "捆绑从源码打包的 syncthing v2.1.7"
+important    = "以应用程序用户身份运行：syncthing"
+
+[zh-hk]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing 係一款持續檔案同步程式。佢可以喺兩部或多部電腦之間即時同步檔案，並安全保護檔案免受窺探。你嘅資料完全屬於你自己，你有權決定資料儲存喺邊度、係咪同第三方分享，以及點樣透過互聯網傳輸。"
+release_note = "整合從原始碼打包嘅 syncthing v2.1.7"
+important    = "以應用程式用戶身分執行：syncthing"
+
+[cs-cz]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing je program pro nepřetržitou synchronizaci souborů. Synchronizuje soubory mezi dvěma nebo více počítači v reálném čase, bezpečně chráněné před zvědavýma očima. Vaše data jsou jen vaše a zasloužíte si vybrat, kde jsou uložena, zda jsou sdílena s třetí stranou a jak jsou přenášena přes internet."
+release_note = "Obsahuje syncthing v2.1.7 zabalený ze zdrojového kódu"
+important    = "Spuštěno pod uživatelem aplikace: syncthing"
+
+[da-dk]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing er et kontinuerligt filsynkroniseringsprogram. Det synkroniserer filer mellem to eller flere computere i realtid, sikkert beskyttet mod nysgerrige blikke. Dine data er dine alene, og du fortjener at vælge, hvor de gemmes, om de deles med tredjeparter, og hvordan de overføres over internettet."
+release_note = "Indeholder syncthing v2.1.7 pakket fra kildekode"
+important    = "Kører som applikationsbruger: syncthing"
+
+[nl-nl]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing is een programma voor continue bestandssynchronisatie. Het synchroniseert bestanden in realtime tussen twee of meer computers, veilig beschermd tegen nieuwsgierige blikken. Jouw gegevens zijn alleen van jou en je verdient het om te kiezen waar ze worden opgeslagen, of ze met derden worden gedeeld en hoe ze via internet worden verzonden."
+release_note = "Bevat syncthing v2.1.7 gecompileerd vanuit de broncode"
+important    = "Uitgevoerd als applicatiegebruiker: syncthing"
+
+[nb-no]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing er et kontinuerlig filsynkroniseringsprogram. Det synkroniserer filer mellom to eller flere datamaskiner i sanntid, trygt beskyttet mot nysgjerrige blikk. Dine data er dine alene, og du fortjener å velge hvor de lagres, om de deles med en tredjepart, og hvordan de overføres over internett."
+release_note = "Inkluderer syncthing v2.1.7 pakket fra kildekode"
+important    = "Kjører som applikasjonsbruker: syncthing"
+
+[sv-se]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing är ett program för kontinuerlig filsynkronisering. Det synkroniserar filer mellan två eller flera datorer i realtid, säkert skyddade från nyfikna ögon. Dina data är enbart dina och du förtjänar att välja var de lagras, om de delas med tredje part och hur de överförs över internet."
+release_note = "Inkluderar syncthing v2.1.7 paketerad från källkod"
+important    = "Körs som applikationsanvändare: syncthing"
+
+[el-gr]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Το Syncthing είναι ένα πρόγραμμα συνεχούς συγχρονισμού αρχείων. Συγχρονίζει αρχεία μεταξύ δύο ή περισσότερων υπολογιστών σε πραγματικό χρόνο, προστατευμένα με ασφάλεια από αδιάκριτα βλέμματα. Τα δεδομένα σας είναι αποκλειστικά δικά σας και αξίζετε να επιλέγετε πού αποθηκεύονται, αν κοινοποιούνται σε τρίτους και πώς μεταδίδονται μέσω του διαδικτύου."
+release_note = "Περιλαμβάνει το syncthing v2.1.7 πακεταρισμένο από τον πηγαίο κώδικα"
+important    = "Εκτελείται ως χρήστης εφαρμογής: syncthing"
+
+[ro-ro]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing este un program de sincronizare continuă a fișierelor. Sincronizează fișierele între două sau mai multe computere în timp real, protejate în siguranță de privirile indiscrete. Datele tale sunt doar ale tale și meriți să alegi unde sunt stocate, dacă sunt partajate cu terți și cum sunt transmise pe internet."
+release_note = "Include syncthing v2.1.7 împachetat din codul sursă"
+important    = "Rulează ca utilizator de aplicație: syncthing"
+
+[th-th]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing เป็นโปรแกรมซิงโครไนซ์ไฟล์อย่างต่อเนื่อง โดยจะซิงโครไนซ์ไฟล์ระหว่างคอมพิวเตอร์สองเครื่องขึ้นไปแบบเรียลไทม์ พร้อมปกป้องอย่างปลอดภัยจากการสอดแนม ข้อมูลของคุณเป็นของคุณแต่เพียงผู้เดียว และคุณสมควรที่จะเลือกได้ว่าข้อมูลจะถูกจัดเก็บไว้ที่ใด จะแชร์กับบุคคลที่สามหรือไม่ และจะส่งผ่านอินเทอร์เน็ตอย่างไร"
+release_note = "รวม syncthing v2.1.7 ที่แพ็กจากซอร์สโค้ด"
+important    = "ทำงานในฐานะผู้ใช้แอปพลิเคชัน: syncthing"
+
+[vi-vn]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing là chương trình đồng bộ hóa tệp liên tục. Chương trình đồng bộ hóa tệp giữa hai hoặc nhiều máy tính theo thời gian thực, được bảo vệ an toàn khỏi những ánh mắt tò mò. Dữ liệu của bạn là của riêng bạn và bạn xứng đáng được chọn nơi lưu trữ, liệu có chia sẻ với bên thứ ba hay không và cách truyền tải dữ liệu qua internet."
+release_note = "Tích hợp sẵn syncthing v2.1.7 được đóng gói từ mã nguồn"
+important    = "Chạy dưới quyền người dùng ứng dụng: syncthing"
+
+[id-id]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing adalah program sinkronisasi file berkelanjutan. Program ini menyinkronkan file antara dua komputer atau lebih secara real time, terlindungi dengan aman dari mata-mata. Data Anda adalah milik Anda sendiri dan Anda berhak memilih di mana data disimpan, apakah dibagikan dengan pihak ketiga, dan bagaimana cara dikirimkan melalui internet."
+release_note = "Menyertakan syncthing v2.1.7 yang dikemas dari kode sumber"
+important    = "Berjalan sebagai pengguna aplikasi: syncthing"
+
+[ar-sa]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing هو برنامج لمزامنة الملفات بشكل مستمر. يقوم بمزامنة الملفات بين جهازي كمبيوتر أو أكثر في الوقت الفعلي، مع حمايتها بأمان من أعين المتطفلين. بياناتك ملك لك وحدك وتستحق أن تختار مكان تخزينها، وما إذا كانت ستتم مشاركتها مع أي طرف ثالث، وكيفية نقلها عبر الإنترنت."
+release_note = "يتضمن syncthing v2.1.7 المجمع من الكود المصدري"
+important    = "يعمل كمستخدم التطبيق: syncthing"
+
+[he-il]
+name = "SyncThing"
+auth = "SyncThing"
+descript = "Syncthing היא תוכנה לסנכרון קבצים רציף. היא מסנכרנת קבצים בין שני מחשבים או יותר בזמן אמת, כשהם מוגנים בבטחה מפני עיניים סקרניות. הנתונים שלך הם שלך בלבד ומגיע לך לבחור היכן הם יאוחסנו, האם ישותפו עם צד שלישי כלשהו וכיצד יועברו דרך האינטרנט."
+release_note = "כולל את syncthing v2.1.7 שנארז מקוד המקור"
+important    = "פועל כמשתמש יישום: syncthing"
